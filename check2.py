@@ -1,5 +1,7 @@
 import cv2
 import numpy as np
+
+# this is for the git testing comment
  
 # 运行之前，检查cascade文件路径是否在相应的目录下
 face_cascade = cv2.CascadeClassifier('C:\Program Files\Anaconda3\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml')
